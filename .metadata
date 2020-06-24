@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This file tracks properties of this Flutter project.
 # Used by Flutter tool to assess capabilities and perform upgrades etc.
 #
@@ -8,3 +9,15 @@ version:
   channel: stable
 
 project_type: app
+=======
+# This file tracks properties of this Flutter project.
+# Used by Flutter tool to assess capabilities and perform upgrades etc.
+#
+# This file should be version controlled and should not be manually edited.
+
+version:
+  revision: 740fb2a8bb6d43a475ce76f7fe3e5fc10bbe24ff
+  channel: master
+
+project_type: app
+>>>>>>> 805cb0247632c409c0897e9e1be411a28d26d136

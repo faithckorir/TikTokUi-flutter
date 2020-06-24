@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tiktokui
 
 A new Flutter application.
@@ -14,3 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Phase 1
+
+Empty starting project so you can follow along with the [tutorial on Meduim](https://medium.com/@dane.mackier/breaking-down-tiktoks-ui-using-flutter-8489fe4ad944)
+>>>>>>> 805cb0247632c409c0897e9e1be411a28d26d136
